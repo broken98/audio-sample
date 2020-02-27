@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "erudite-nation-268921",
+  "private_key_id": "a331e1ca1443ec38e8a73dd3d5442dfd7a716852",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNR0X/Pq+EMifr\nY4qeZTVPHocyjTHO08g83Po14f4tsgZs727Gzt7BnTjlBinrKo+UYt+/vhQ8+G3M\n90NRVxOpzCBtUAZidBBjGGRAVwHQQ6xPgLbkdDi7jWi68hLdwYqpmxo/p64RQ5bt\nEdiJi5ydfKTokR06+DIju/kymGvVYageWO3okjMlBeCqDr/8Aq/2snn3kNWshbCg\nbZqNuCvn2UMs4I2L8LCxXlJSDLKIbUktuNuV9fD41xJ18Iul+qXKRQ+x3h4bzrgH\n0A2sU+gD3UBss9Eqpx1bkKRV4tij36O2sCvmUrdqFro2ouWWgSP0WIKp1Y9/JDsT\n0AnUWyVVAgMBAAECggEAA/jH5aHlXYxVr90FSn5IFWe213yWFgZqYtivT5rZ1DGD\nHD+bdMwoWYtnYk9MHu+vLbPIcitnTqQpW3FB+xWNEBRagxDO0Xu2i3TVMd72soTs\nJkaU2KolAru3qzR0LmU7oeXeZdj34XcqbD4tYq/paYsPfAo2Nt+ktC1uM/E+CfN+\nG2re9TIz7R/hFcrLyHx5vIlXUFO0FFgoFCD96a0YsMovmeLP4jAV2+Z9LoHRhSjP\nwNqi0G/vswt9+m8LONy95Cisd7+On7y68464C2b1QOCqC+v8SfiehFUuAxJjPDk+\nQYkBcVtzyryXWCgnYNzWIQYc5zhsHKbadDT7GOTI2wKBgQD2PowtSI8whWYO/v1f\nTedysZJnUQQRo5oReLINpqhTWecK1jRgtB957JxEf1VUNavx6u86Tvzw/GoBOPJj\n+ow/uBBgzDnNrkcncjf7SA1Xosf6JD0CGNgSoxd6fsu+oW6p91z+vGM3hTvDUi30\nrHhlQfc/ymRuP04tdS6xUCb8rwKBgQDVaT4TrLtc0/q08E48/W+ynjdMyYNnU0E7\nFSGcCztFmnfKZy8t6b6QRKaYHeYuPrAeBqk04DVez0P6g5MtTsyTO7Njm9jS743m\nTS7ZAtL1b9gf66gdRPH4httVD4SR/S0osoGN7eG6SDNojVRLpVQxInWZak06Tw8J\nw8+XMbPnOwKBgC0UmlkX9Y7ufRa1u/EctAidVa4weMw55VTZgc9Z+Wr5BIFJYeFq\nWHDbzmgD371A7i+l0RIdr9T2gPmkUUvYbKCls+nkuZhcFY61LGaGdFrc5Dt5MuoV\nXklbLkswt2A48aeQL6g7GPbrH1vMybkHcisnfnphNS2xzUApOdkgUWLlAoGBALDf\nJJ/RzQdGeMZ1U6KguW5kSpjNeqasDagV/2EAvgMV3qpVkniO/W08OIZiYV96fSSl\niJ9WI2WMil6ZpeUrJcnw9OBdTfqkqApzdZxOBuF77Len7BE2DwVXX3jD/6+vETpl\nl5I10Zs+M703ROHdCEYgtS6NN6xX0bLaIrbAbsX5AoGBAKp8Uvm/1jNcHCS6894I\n6gfJg4BIKc03kfB1nv6weaebpPVOZUi7TZxzO4AjIN91C8paJiUOMKOKzDlai44E\nSclhzmLeQOLjiYXtgCN8Wd3DDb6EeHmVUwRNFbAYy/gqLTeBRN3uG/IFAX2XsPke\ntNKo7RKb5PeV8SBmZUIhRKjv\n-----END PRIVATE KEY-----\n",
+  "client_email": "audio-project@erudite-nation-268921.iam.gserviceaccount.com",
+  "client_id": "105967928510540458323",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/audio-project%40erudite-nation-268921.iam.gserviceaccount.com"
+}
