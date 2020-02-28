@@ -1,6 +1,5 @@
 package com.test.google.speech.api.calls;
 
-import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
@@ -33,7 +32,6 @@ public class CloudStorage {
 		try {
 			Storage storage = StorageOptions.newBuilder().setProjectId(projectId).build().getService();
 			BlobId blobId = BlobId.of(bucketName, objectName);
-			BlobInfo blobInfo = BlobInfo.newBuilder(blobId).build();
 			
 			//storage.create(blobInfo, Files.readAllBytes(Paths.get(filePath)));
 			storage.delete(blobId);

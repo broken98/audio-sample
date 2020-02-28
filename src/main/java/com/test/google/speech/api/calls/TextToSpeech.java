@@ -27,7 +27,7 @@ public class TextToSpeech {
                     .build();
  
             // Select the type of audio file you want returned
-            AudioConfig audioConfig = AudioConfig.newBuilder().setAudioEncoding(AudioEncoding.OGG_OPUS) // OOG audio.
+            AudioConfig audioConfig = AudioConfig.newBuilder().setAudioEncoding(AudioEncoding.LINEAR16) // OOG audio.
                     .build();
  
             // Perform the text-to-speech request
